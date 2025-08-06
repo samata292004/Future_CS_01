@@ -4,4 +4,4 @@ FUTURE_CS_01 🚩 Task 1: Web Application Security Testing This repository conta
 
 SQL Injection (SQLi) Cross-Site Scripting (XSS) Brute Force Attack 📂 screenshots/ — screenshots showing test results as proof of work
 
-🛡 Tools Used DVWA (Damn Vulnerable Web Application) Burp Suite SQLMap (optional) Kali Linux 📢 Author Debangshu — Future Interns Cyber Security Intern
+🛡 Tools Used DVWA (Damn Vulnerable Web Application) Burp Suite SQLMap (optional) Kali Linux 📢 Author Samata — Future Interns Cyber Security Intern
